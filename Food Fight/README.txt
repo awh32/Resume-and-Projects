@@ -2,6 +2,9 @@
 
 The concept of the game is the story of a young student who quickly gets into a a food fight with various other students. 
 
-The design information of the project is included in this folder. 
+The design information of the project is included in this folder, along with some concept and charcter art.
 
-The game is currently still in development. When the game is finished, a build will be added to this folder. 
+The game has reached an beta stage of development. We have finished and presented it for our class, but we are continuing to 
+update it and polish it for eventual release.
+
+A current build of the game may be obtained by request. 
